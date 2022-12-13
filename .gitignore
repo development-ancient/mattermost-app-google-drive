@@ -11,6 +11,8 @@ dist/
 /dist/
 /.idea/
 
+# Compiled JavaScript code
+dist-ts/
 
 # Compiled Java class files
 *.class
